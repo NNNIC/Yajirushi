@@ -20,3 +20,7 @@ Choose the Arrow object on the hierarchy window, then change the type of the pro
 Select and move the hadles on the scene window.
 
 ![Select Move Handles](https://github.com/NNNIC/wiki_depot/blob/master/yajirushi/c03.png)
+
+# ALL ARROW TYPES
+
+![All Arrow types](https://github.com/NNNIC/wiki_depot/blob/master/yajirushi/alltypes.png)
